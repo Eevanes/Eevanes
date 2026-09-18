@@ -1,6 +1,6 @@
 ![Eevanes — AI, data, and public value](./assets/profile-banner.svg)
 
-## Hello — I’m Evanesce.
+## Hello — I’m Evanes.
 
 I build practical systems at the intersection of **AI, data, and public value**.
 
