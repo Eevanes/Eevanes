@@ -20,6 +20,8 @@ Human-centered AI · Data products · Applied research
   <a href="https://eevanes.github.io/"><strong>Visit my personal homepage →</strong></a>
   &nbsp;&nbsp;·&nbsp;&nbsp;
   <a href="https://github.com/Eevanes?tab=repositories">Explore my repositories</a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="mailto:jiangweiyi0502@gmail.com">Email me</a>
 </p>
 
 ---
