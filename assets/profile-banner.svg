@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="420" viewBox="0 0 1280 420" role="img" aria-labelledby="title desc">
+  <title id="title">Eevanes — AI, data, and public value</title>
+  <desc id="desc">An editorial banner with a bold introduction and an abstract blue data sculpture.</desc>
+  <defs>
+    <pattern id="grid" width="18" height="18" patternUnits="userSpaceOnUse">
+      <circle cx="1.5" cy="1.5" r="1" fill="#0a66ff" opacity=".45"/>
+    </pattern>
+    <radialGradient id="orb" cx="48%" cy="42%" r="58%">
+      <stop offset="0" stop-color="#0a66ff" stop-opacity=".74"/>
+      <stop offset="1" stop-color="#0a66ff" stop-opacity=".08"/>
+    </radialGradient>
+  </defs>
+  <rect width="1280" height="420" fill="#f5f3ee"/>
+  <path d="M32 56H1248" stroke="#c8c8c2"/>
+  <text x="34" y="37" fill="#10131b" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700" letter-spacing="4">EEVANES</text>
+  <text x="34" y="128" fill="#0a66ff" font-family="Consolas, monospace" font-size="11">01</text>
+  <path d="M62 124H104" stroke="#89909b"/>
+  <text x="34" y="188" fill="#10131b" font-family="Arial, Helvetica, sans-serif" font-size="54" font-weight="700" letter-spacing="-2">I build practical systems</text>
+  <text x="34" y="247" fill="#10131b" font-family="Arial, Helvetica, sans-serif" font-size="54" font-weight="700" letter-spacing="-2">at the intersection of AI,</text>
+  <text x="34" y="306" fill="#10131b" font-family="Arial, Helvetica, sans-serif" font-size="54" font-weight="700" letter-spacing="-2">data, and public value.</text>
+  <text x="36" y="355" fill="#464c57" font-family="Arial, Helvetica, sans-serif" font-size="18">Research · Tools · Real-world impact</text>
+  <rect x="826" y="82" width="356" height="276" fill="url(#grid)"/>
+  <circle cx="1000" cy="215" r="132" fill="#dbe8ff" opacity=".72"/>
+  <circle cx="1000" cy="215" r="98" fill="url(#orb)"/>
+  <g fill="none" stroke="#1a5ec8" opacity=".38">
+    <path d="M760 310C850 145 926 347 1240 173"/>
+    <path d="M760 320C860 155 938 357 1240 185"/>
+    <path d="M760 330C870 165 950 367 1240 197"/>
+    <path d="M760 340C880 175 962 377 1240 209"/>
+    <path d="M760 350C890 185 974 387 1240 221"/>
+  </g>
+  <path d="M1113 78V360M1000 215H1224" stroke="#0a66ff"/>
+  <circle cx="1113" cy="215" r="7" fill="#ff7433"/>
+  <path d="M1155 108H1207M1181 82V134" stroke="#ff7433"/>
+  <text x="1140" y="180" fill="#64748b" font-family="Consolas, monospace" font-size="10">DATA</text>
+  <text x="1140" y="194" fill="#64748b" font-family="Consolas, monospace" font-size="10">INTELLIGENCE</text>
+  <text x="1140" y="208" fill="#64748b" font-family="Consolas, monospace" font-size="10">PEOPLE</text>
+</svg>
