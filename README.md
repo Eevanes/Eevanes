@@ -10,7 +10,7 @@ I build practical systems at the intersection of **AI, data, and public value**.
 
 - **[Accounting DataShare](https://accounting-datashare.vercel.app/)** — connecting accounting datasets, research cases, and analysis methods
 - **EconoMind** — an AI-assisted desktop research tool for economics, management, finance, and accounting
-- **Automated Report Review** — template-aware checks and editable review notes for Word, PDF, and scanned reports
+- **[Intervention Review Skill](https://github.com/Eevanes/intervention-review-skill)** — evidence-led, minimal support for teaching assistants and teams
 
 ### Currently exploring
 
