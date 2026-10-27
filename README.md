@@ -9,7 +9,7 @@ I build practical systems at the intersection of **AI, data, and public value**.
 ### Selected directions
 
 - **[Accounting DataShare](https://accounting-datashare.vercel.app/)** — connecting accounting datasets, research cases, and analysis methods
-- **[向善工坊 · AI Content System](https://my.feishu.cn/base/SPLsbFGGbaZVfFsLQ7pc52Mgnhe?from=from_copylink)** — a Feishu-based content workflow built with the China Foundation for Rural Development
+- **EconoMind** — an AI-assisted desktop research tool for economics, management, finance, and accounting
 - **Automated Report Review** — template-aware checks and editable review notes for Word, PDF, and scanned reports
 
 ### Currently exploring
