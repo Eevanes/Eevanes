@@ -10,6 +10,7 @@ I build practical systems at the intersection of **AI, data, and public value**.
 
 - **[Accounting DataShare](https://accounting-datashare.vercel.app/)** — connecting accounting datasets, research cases, and analysis methods
 - **EconoMind** — an AI-assisted desktop research tool for economics, management, finance, and accounting
+- **管策智研 · Guance Policy Intelligence** — an evidence-linked policy research workspace for policy Q&A, literature organization, and original-source reading; personal development repository is private
 - **[Intervention Review Skill](https://github.com/Eevanes/intervention-review-skill)** — evidence-led, minimal support for teaching assistants and teams
 
 ### Currently exploring
